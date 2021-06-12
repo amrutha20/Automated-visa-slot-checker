@@ -1,0 +1,6 @@
+selenium==3.141.0
+-f https://download.pytorch.org/whl/torch_stable.html
+torch==1.8.0+cpu
+easyocr==1.3.2
+matplotlib
+chromedriver-py==91.0.4472.19
